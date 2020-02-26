@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+    "author": "Candace",
 	"scripts": {
 		"start": "node server.js"
 	},
@@ -14,6 +15,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-    "author": {
-    "author": "Candace",
 }
